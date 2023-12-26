@@ -1,5 +1,5 @@
 Type: Application
-Name: devscomp/start-scf
+Name: devsapp/start-scf
 Version: 0.0.6
 Provider:
   - 腾讯云
